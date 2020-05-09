@@ -1,0 +1,9 @@
+D:\XamarinProjects\Dmitry\App3\App3.DAL\bin\Debug\netstandard2.0\App3.DAL.deps.json
+D:\XamarinProjects\Dmitry\App3\App3.DAL\bin\Debug\netstandard2.0\App3.DAL.dll
+D:\XamarinProjects\Dmitry\App3\App3.DAL\obj\Debug\netstandard2.0\App3.DAL.AssemblyInfoInputs.cache
+D:\XamarinProjects\Dmitry\App3\App3.DAL\obj\Debug\netstandard2.0\App3.DAL.AssemblyInfo.cs
+D:\XamarinProjects\Dmitry\App3\App3.DAL\bin\Debug\netstandard2.0\App3.DAL.pdb
+D:\XamarinProjects\Dmitry\App3\App3.DAL\obj\Debug\netstandard2.0\App3.DAL.csprojAssemblyReference.cache
+D:\XamarinProjects\Dmitry\App3\App3.DAL\obj\Debug\netstandard2.0\App3.DAL.csproj.CoreCompileInputs.cache
+D:\XamarinProjects\Dmitry\App3\App3.DAL\obj\Debug\netstandard2.0\App3.DAL.dll
+D:\XamarinProjects\Dmitry\App3\App3.DAL\obj\Debug\netstandard2.0\App3.DAL.pdb
